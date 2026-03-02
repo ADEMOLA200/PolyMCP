@@ -8,7 +8,6 @@
   <a href="LICENSE"><img src="https://img.shields.io/pypi/l/polymcp.svg" alt="License"></a>
   <a href="https://github.com/llm-use/polymcp/stargazers"><img src="https://img.shields.io/github/stars/llm-use/polymcp?style=social" alt="GitHub stars"></a>
   <a href="https://pepy.tech/project/polymcp"><img src="https://img.shields.io/pepy/dt/polymcp" alt="PyPI downloads"></a>
-  <a href="https://www.poly-mcp.com"><img src="https://img.shields.io/badge/website-poly--mcp.com-blue" alt="Website"></a>
 </p>
 
 > Universal MCP toolkit and agent framework for Python and TypeScript.
