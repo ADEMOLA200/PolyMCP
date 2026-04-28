@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/poly-mcp-polymcp-badge.png)](https://mseep.ai/app/poly-mcp-polymcp)
+
 <p align="center">
   <img src="poly-mcp.png" alt="PolymCP Logo" width="500"/>
 </p>
