@@ -1,8 +1,7 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/poly-mcp-polymcp-badge.png)](https://mseep.ai/app/poly-mcp-polymcp)
-
 <p align="center">
   <img src="poly-mcp.png" alt="PolymCP Logo" width="500"/>
 </p>
+
 
 <p align="center">
   <a href="https://pypi.org/project/polymcp/"><img src="https://img.shields.io/pypi/v/polymcp.svg" alt="PyPI version"></a>
@@ -10,6 +9,10 @@
   <a href="LICENSE"><img src="https://img.shields.io/pypi/l/polymcp.svg" alt="License"></a>
   <a href="https://github.com/llm-use/polymcp/stargazers"><img src="https://img.shields.io/github/stars/llm-use/polymcp?style=social" alt="GitHub stars"></a>
   <a href="https://pepy.tech/project/polymcp"><img src="https://img.shields.io/pepy/dt/polymcp" alt="PyPI downloads"></a>
+</p>
+
+<p align="left">
+  <img src="https://mseep.net/pr/poly-mcp-polymcp-badge.png" alt="MseeP.ai Security Assessment Badge" width="200"/>
 </p>
 
 > Universal MCP toolkit and agent framework for Python and TypeScript.
